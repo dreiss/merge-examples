@@ -1,0 +1,2 @@
+draw_text($label,
+  BOLD);

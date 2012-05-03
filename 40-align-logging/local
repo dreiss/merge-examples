@@ -1,0 +1,3 @@
+#ifdef HAVE_LOGGING
+LOG(WARN) << "Record not found";
+#endif

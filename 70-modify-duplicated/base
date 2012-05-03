@@ -1,0 +1,4 @@
+void transact() {
+  prepare();
+  log();
+}

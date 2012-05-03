@@ -1,0 +1,9 @@
+void prepare();
+
+void transact() {
+  prepare();
+
+  commit();
+}
+
+void commit();

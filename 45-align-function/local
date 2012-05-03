@@ -1,0 +1,3 @@
+// This function does stuff
+// and it does it well
+void do_stuff(int value) {

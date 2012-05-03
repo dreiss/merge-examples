@@ -1,0 +1,10 @@
+void transact() {
+ if (async) {
+  prepare(ASYNC);
+  log();
+ } else {
+  prepare(SYNC);
+  log();
+  commit();
+ }
+}

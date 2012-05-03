@@ -1,0 +1,6 @@
+members = set([
+  "Earth",
+  "Fire",
+  "Wind",
+  "Water",
+])
