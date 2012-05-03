@@ -1,0 +1,3 @@
+size_t len = strlen(src) + 1;
+char* dst = malloc(len + 1);
+strcpy(dst, src);
