@@ -1,1 +1,1 @@
-LOG(WARN) << "Record not found";
+LOG(INFO) << "Record not found";

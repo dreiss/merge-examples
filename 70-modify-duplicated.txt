@@ -1,4 +1,4 @@
 void transact() {
   prepare();
-  log();
+  log(VERBOSE);
 }

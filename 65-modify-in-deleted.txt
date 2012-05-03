@@ -1,11 +1,5 @@
 void prepare();
 
-void transact() {
-  prepare();
-
-  validate();
-
-  commit();
-}
+void transact();
 
 void commit();

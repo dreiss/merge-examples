@@ -1,1 +1,1 @@
-void do_stuff(int value) {
+void do_stuff(int value, float factor) {

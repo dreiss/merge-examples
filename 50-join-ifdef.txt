@@ -1,2 +1,5 @@
 #include <stdio.h>
+#ifdef HAVE_GTK
+#include <gtk.h>
+#endif
 #include <stdlib.h>
