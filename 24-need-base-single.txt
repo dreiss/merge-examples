@@ -1,1 +1,1 @@
-draw_text_fast($label, BOLD);
+draw_text($label, BOLD);

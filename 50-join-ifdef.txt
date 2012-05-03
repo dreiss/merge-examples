@@ -1,2 +1,5 @@
 #include <stdio.h>
+#ifdef HAVE_NETWORK
+#include <net.h>
+#endif
 #include <stdlib.h>

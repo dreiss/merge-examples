@@ -3,7 +3,7 @@ void prepare();
 void transact() {
   prepare();
 
-  validate();
+  validate_fully();
 
   commit();
 }
